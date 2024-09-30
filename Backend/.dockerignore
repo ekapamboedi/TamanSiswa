@@ -1,0 +1,11 @@
+/.vscoce
+/tmp
+/tmpfiles
+/Note
+.air.toml
+.dockerignore
+Dockerignore
+.env
+.gitignore
+.txt
+Dockerfile
