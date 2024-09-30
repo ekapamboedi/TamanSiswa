@@ -13,7 +13,6 @@ go.work
 .env
 .air.toml
 .Dockerfile
-.Dockerfile
 /tmp
 /tmpfiles
 /Note
