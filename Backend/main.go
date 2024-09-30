@@ -19,6 +19,7 @@ type Response struct {
 }
 
 func main() {
+	
 	config.Init()
 	// config.InitOss()
 	model.Init()
